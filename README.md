@@ -1,38 +1,34 @@
 <div align="center">
 
-# Hey there! 👋
-
-**I'm Aaryan Palekar** — a CS student who enjoys building things, learning how systems actually work, and exploring cybersecurity.
+# Hey there, I'm Aaryan! 👋
 
 </div>
+
+I'm a Computer Science student with a growing interest in **software engineering**, and I like understanding how things work at a deeper level — from memory management in C to how cloud infrastructure actually runs underneath an app. Alongside SWE, I'm exploring **cybersecurity** and **cloud computing (AWS)**, and I enjoy building small projects end-to-end rather than just following tutorials.
 
 ---
 
 ### 🚀 What I Build
 
-- 💻 **Programming Fundamentals** — learning to write clean, correct code in C and Python
-- 🔐 **Cybersecurity** — exploring the basics of how systems get broken and secured
-- 🌐 **Web Development** — learning HTML, SQL, and how full applications fit together
+- 💻 **Software Engineering** — writing clean, correct code and learning solid CS fundamentals in C and Python
+- 🔐 **Cybersecurity** — exploring how systems get broken and secured
+- 🌐 **Web Development** — HTML, SQL, and how full applications fit together
 
 ---
 
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,js,ts,sql,git,github,aws" />
 </p>
 
 ---
 
 ### 🔭 Currently Exploring
 
-- 📊 Fundamentals of **AI/ML and Data Science**
-- 🛡️ Beginner-level **cybersecurity practice** (CTFs, security basics)
+- ☁️ **AWS / Cloud Computing** fundamentals
+- 📊 Basics of **AI/ML and Data Science**
+- 🛡️ Beginner **cybersecurity practice** (CTFs, security fundamentals)
 - 🧠 Strengthening core CS fundamentals in C and Python
 
 ---
@@ -41,9 +37,6 @@
 
 **[TrackVault](https://trackvault.lovable.app)** — a personal finance / expense tracker for logging and categorizing spending
 `TypeScript`
-
-**Portfolio Website** — my personal site to showcase who I am and what I'm working on
-`HTML`
 
 ---
 
@@ -74,6 +67,7 @@
 <!--
 Note for Aaryan:
 - Replace the Portfolio Website link (currently no URL) once it's deployed live somewhere.
-- The GitHub stats widgets will populate automatically once your repos/profile are public — they'll look empty or broken until then.
+- GitHub stats widgets populate automatically once your profile/repos are public — no action needed once that's done.
 - Add your world clock project here once it's pushed as a repo.
+- The skillicons.dev icon set includes aws — swap/add icons anytime at https://skillicons.dev
 -->
