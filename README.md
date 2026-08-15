@@ -6,7 +6,7 @@ CS student interested in **software engineering** and **cybersecurity**, learnin
 - 🌱 Learning **HTML/CSS**, **SQL**, and picking up web development along the way
 - 🔐 Interested in **cybersecurity** — currently exploring the basics and looking for ways to go deeper (CTFs, security fundamentals)
 - 🛠️ I like building small, complete things end-to-end rather than leaving projects half-finished
-- 📫 Reach me at aaryanpalekar18@gmail.com or [LinkedIn](https://linkedin.com/in/aaryanpalekar)
+- 📫 Reach me at [LinkedIn](https://linkedin.com/in/aaryanpalekar)
 
 ---
 
